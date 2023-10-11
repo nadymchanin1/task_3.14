@@ -6,7 +6,7 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-###Содержание:
+### Содержание:
 1. [Markdown](./markdown.md)
 2. [git config](./config.md)
 3. [git init](./init.md)
